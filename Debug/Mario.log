@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\Alex.ELEMENT2\source\repos\Mario\main.cpp(44,64): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Alex.ELEMENT2\source\repos\Mario\main.cpp(44,56): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Mario.vcxproj -> C:\Users\Alex.ELEMENT2\source\repos\Mario\Debug\Mario.exe
